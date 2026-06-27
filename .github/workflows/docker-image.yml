@@ -32,4 +32,4 @@ jobs:
 
     - name: Push the Docker image
       run: |
-        docker push bryancs21/docker-graphql:0.0.1 . 
+        docker push bryancs21/docker-graphql:0.0.1
